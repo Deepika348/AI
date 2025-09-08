@@ -14,3 +14,8 @@ def bfs(start):
                 seen.add(new); q.append((new,path+[act]))
 
 print(bfs(('A','Dirty','Dirty')))
+
+OUTPUT:
+['Clean', 'Right', 'Clean']
+
+
