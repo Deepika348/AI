@@ -27,3 +27,15 @@ def solve(board, row=0):
 
 board=[[0]*N for _ in range(N)]
 solve(board)
+
+OUTPUT:
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
+
