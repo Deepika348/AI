@@ -13,3 +13,8 @@ def solve():
                 seen.add(new); q.append((new,path+[new]))
 
 for step in solve(): print(step)
+
+OUTPUT:
+
+
+
